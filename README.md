@@ -8,6 +8,8 @@ resume fork by eternityspring
 >
 先安装npm
 npm install
+
 运行编译
 npm run dev
+
 访问：http://localhost:8080/
