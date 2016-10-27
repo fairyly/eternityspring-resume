@@ -5,7 +5,7 @@ resume fork by eternityspring
 
 本地运行需要有本地服务器环境，
 如没有,可用node环境
->
+```
 先安装npm
 npm install
 
@@ -13,3 +13,4 @@ npm install
 npm run dev
 
 访问：http://localhost:8080/
+```
