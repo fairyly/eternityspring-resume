@@ -1,19 +1,19 @@
 {
-  "name":"王",
-  "nickname":"源泉",
+  "name":"fairyly",
+  "nickname":"fairyly",
   "firstName":"fairyly",
   "lastName":"",
   "slogan":"追求专业与卓越前端开发者",
-  "location":"Shanghai·China",
+  "location":"Zhengzhou·China",
   "qq":{
-    "number":"888888888"
+    "number":"498745097"
   },
-  "website":"http://888888x.com",
-  "email":"888888g@gmail.com",
+  "website":"http://fairyly.github.io/myblog",
+  "email":"fairyilys@gmail.com",
   "intro":[
-    "<span class='text-light'>92</span>年、<span class='text-light'>湖北</span>·十堰人。做事务实踏实。喜欢简单的东西。习惯听歌写代码。",
+    "<span class='text-light'>91</span>年、<span class='text-light'>河南</span>·南阳人。做事务实踏实。喜欢简单的东西。习惯听歌写代码。",
     "喜欢设计，对用户体验有追求。喜欢折腾，没事的时候喜欢做点小东西。",
-    "善于学习。从毕业时候连基本html都不会写，到现在能独自一人完成一个网站的前端后端。"
+    "善于学习。从毕业时候连基本html都不会写，到现在能独自一人完成一个网站的前端。"
   ],
   "experience":[
     {
