@@ -43,6 +43,10 @@
   ],
   "skill":[
     {
+      "name":"Html",
+      "percent":"80%"
+    },
+    {
       "name":"Css",
       "percent":"80%"
     },
@@ -52,19 +56,23 @@
     },
     {
       "name":"JavaScript",
-      "percent":"60%"
+      "percent":"70%"
     },
     {
       "name":"Nodejs",
-      "percent":"60%"
+      "percent":"50%"
     },
     {
       "name":"MongoDB",
       "percent":"50%"
     },
     {
-      "name":"PHP",
+      "name":"JSP",
       "percent":"30%"
+    }
+    {
+      "name":"PHP",
+      "percent":"10%"
     }
   ],
   "usually":[
