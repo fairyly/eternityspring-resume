@@ -3,7 +3,7 @@
   "nickname":"fairyly",
   "firstName":"fairyly",
   "lastName":"",
-  "slogan":"追求专业与卓越前端开发者",
+  "slogan":"Web前端开发者",
   "location":"Zhengzhou·China",
   "qq":{
     "number":"498745097"
@@ -11,34 +11,23 @@
   "website":"http://fairyly.github.io/myblog",
   "email":"fairyilys@gmail.com",
   "intro":[
-    "<span class='text-light'>91</span>年、<span class='text-light'>河南</span>·南阳人。做事务实踏实。喜欢简单的东西。习惯听歌写代码。",
+    "<span class='text-light'></span><span class='text-light'></span>做事务实踏实。喜欢简单的东西。习惯听歌写代码。",
     "喜欢设计，对用户体验有追求。喜欢折腾，没事的时候喜欢做点小东西。",
     "善于学习。从毕业时候连基本html都不会写，到现在能独自一人完成一个网站的前端。"
   ],
   "experience":[
     {
-      "time":"2012-2013年",
-      "title":"先后在湖北武汉/十堰工作",
-      "intro":"其中包括1年的实习时间",
-      "description":"毕业于武汉软件工程职业技术学院。先后在武汉和老家湖北十堰工作一年。期间，主要精力用于钻研一个基于php的cms：drupal。与此同时，学会了drupal以及wordpress之类的cms的常用操作。"
+      "time":"2016.3-至今",
+      "title":"河南邦瑞科技公司",
+      "intro":"web前端开发",
+      "description":"负责公司微友网站的页面改版以及与后台php的交互；负责开发公司的微商海报制作、图片加水印以及签到日历模块；工作期间对前端有了更深刻的认识，坚持每天下班学习，对原生js以及js的原型更加熟悉，对前端自动化和模块化也进一步了解，对前端的MVC也进一步熟悉；"
     },
     {
-      "time":"2014年",
-      "title":"上海传斐信息技术有限公司",
-      "intro":"前端开发",
-      "description":"14年年初，来到上海，就职于传斐科技信息有限公司。从事前端开发方面工作。期间，主要精力放在基础的js知识学习。同时也学习了一些产品设计的思维与技巧。"
-    },
-    {
-      "time":"2015年-今",
-      "title":"云知声信息技术有限公司上海分舵",
-      "intro":"前端开发",
-      "description":"15年年初，加入北京云知声信息技术有限公司上海分舵。从事前端开发至今。期间，大部分精力都用户钻研前端的工程化。代码从css转到less，代码管理工具从svn转到git。学习了nodejs，熟悉了gulp。基于gulp做了很多前端自动化构建的工具。同时，也学习和使用了一些前端框架如：angular、vuejs等。"
-    },
-    {
-      "time":"自毕业后",
-      "title":"个人网站",
-      "intro":"全栈开发的学习与研究",
-      "description":"自毕业后一直创建与维护一个个人网站。在学nodejs之前，是基于drupal做的。自己独立开发的主题，广受欢迎。在学习了nodejs后，后端基于nodejs的express框架前端基于google的angularjs框架重做了一遍。全站为单页面应用。历时1年。同时也学会了mongodb的一些常规操作和配置。"
+      "time":"2015.3-2016.3",
+      "title":"河南九象酒业有限公司",
+      "intro":"web前端开发",
+      "description":"负责商城网站的页面改版，修改网站前端样式；负责搭建公司网站以及对公司网站页面样式重写；工作期间认识到自己不足的地方，于是重新学习Html、css以及JavaScript基础部分，能全手写网站的前端页面，同时进一步熟悉了源码建站；熟练掌握论坛网站（如Discuz!和phpwind）、商城网站（如ECSHOP）、企业网站、博客网站以及织梦（DEDECMS）、帝国（EmpireCMS）等CMS网站的搭建和部署；
+"
     }
   ],
   "skill":[
@@ -79,7 +68,7 @@
     {
       "name":"GitHub",
       "link":"https://github.com/",
-      "description":"分享一些我的小作品 结交志同道合的朋友"
+      "description":"分享一些我的Demo"
     },
     {
       "name":"知乎",
